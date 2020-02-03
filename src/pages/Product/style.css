@@ -1,0 +1,11 @@
+.productInfo{
+    width: 700px;
+    margin: 20px auto 0;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.productInfo h1,p{
+    margin-bottom: 10px
+}
